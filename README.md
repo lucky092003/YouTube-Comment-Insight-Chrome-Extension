@@ -1,1 +1,1 @@
-# YouTube-Comment-Insight-Chrome-Extension
+# YouTube CommentInsight-Chrome Extension

@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Comment Insight",
+  "version": "1.0",
+  "description": "Suggests best YouTube channels for study topics based on comment analysis.",
+  "permissions": [
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://www.googleapis.com/*",
+    "https://www.youtube.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

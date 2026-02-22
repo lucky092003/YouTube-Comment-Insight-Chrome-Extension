@@ -12,6 +12,11 @@ YouTube Comment Insight is a Chrome Extension that helps you quickly analyze and
 ### Google Cloud Console Youtube APIs
 ### Natural Language Processing (NLP)
 
+# How to Run
+### 1.python -m venv venv
+### 2.venv\Scripts\activate
+### 3.python app.py
+
 # 📌 Use Cases
 ### Content creators can understand audience feedback more efficiently Viewers can get a clear picture of community sentiment Marketers and analysts can gather insights from engagement patterns
 
